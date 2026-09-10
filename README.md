@@ -1,2 +1,2 @@
-# thing
+# coolplace
 peezza
